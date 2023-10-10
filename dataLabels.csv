@@ -1,4 +1,4 @@
-filepath,xmin,xmax,ymin,ymax
+path,x1,x2,y1,y2
 ./images2\Cars0.xml,226,419,125,173
 ./images2\Cars1.xml,134,262,128,160
 ./images2\Cars10.xml,140,303,5,148
